@@ -1,14 +1,15 @@
 # x0cero
 
-I write emulators and systems software from scratch in Rust.
+I build whatever pulls me in: emulators, operating systems, apps, games, AI tools. Most of it from scratch, because that's the fun part.
 
-## Emulators
+## Here so far
 
 | | |
 |---|---|
-| [**gameboy**](https://github.com/x0cero/gameboy) | Game Boy + Game Boy Color emulator. Runs Pokémon Red. Passes dmg-acid2. |
-| [**gba**](https://github.com/x0cero/gba) | Game Boy Advance emulator. Runs Pokémon FireRed, frame-identical to mGBA. |
-| [**nds**](https://github.com/x0cero/nds) | Nintendo DS emulator. Runs Pokémon Platinum into 3D overworld gameplay. |
+| [**gameboy**](https://github.com/x0cero/gameboy) | Game Boy + Game Boy Color emulator in Rust. Runs Pokémon Red. Passes dmg-acid2. |
+| [**gba**](https://github.com/x0cero/gba) | Game Boy Advance emulator in Rust. Runs Pokémon FireRed, frame-identical to mGBA. |
+| [**nds**](https://github.com/x0cero/nds) | Nintendo DS emulator in Rust. Runs Pokémon Platinum into 3D overworld gameplay. |
+| [**magi**](https://github.com/x0cero/magi) | Three-agent decision CLI inspired by Evangelion. Consults Melchior, Balthasar, and Casper in parallel and returns their verdicts. |
 
 <p>
   <img src="https://raw.githubusercontent.com/x0cero/gameboy/master/screenshots/pokemon-red.gif" height="180" alt="Pokémon Red on the gameboy emulator">
@@ -16,8 +17,4 @@ I write emulators and systems software from scratch in Rust.
   <img src="https://raw.githubusercontent.com/x0cero/nds/master/screenshots/outdoor.png" height="180" alt="Pokémon Platinum overworld on the nds emulator">
 </p>
 
-## Other projects
-
-- [**magi**](https://github.com/x0cero/magi): three-agent decision CLI inspired by Evangelion. Consults Melchior, Balthasar, and Casper in parallel and returns their verdicts.
-
-All of it is written from first principles: CPU cores, PPU/GPU pipelines, audio, and timing, without emulation libraries.
+More on the way.
