@@ -1,6 +1,6 @@
 # x0cero
 
-I build whatever pulls me in: emulators, operating systems, apps, games, AI tools. Most of it from scratch, because that's the fun part.
+I build too much: emulators, operating systems, apps, games, AI tools. Most of it from scratch, because that's the fun part.
 
 ## Here so far
 
